@@ -19,8 +19,8 @@ In this lab, we will walk through how to create an Active Directory home lab Env
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Launch the utility <br/>
+<img src="https://imgur.com/a/JScdFPa" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
